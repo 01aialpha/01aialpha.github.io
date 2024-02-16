@@ -164,10 +164,10 @@ data.head()
 
 
 
-# 1. 데이터 탐색 및 Preprocessing
-# (step1) 필요없는 변수 제거 : Surname
+### 1. 데이터 탐색 및 Preprocessing
+### (step1) 필요없는 변수 제거 : Surname
 
-# (step2) 이산형과 연속형을 구분하고, 이산형은 다시 명목척도와 서열척도로 구분하여, 변수분류
+### (step2) 이산형과 연속형을 구분하고, 이산형은 다시 명목척도와 서열척도로 구분하여, 변수분류
 
 1. 이산형_명목척도 : Geography(4cls), Age_1(5cls), Gender(2cls), HasCrCard(2cls), IsActiveMember(2cls)
 2. 이산형_서열척도 : Tenure(11cls), NumofProducts(4cls), HasCrCard(2cls), IsActiveMember(2cls) 
