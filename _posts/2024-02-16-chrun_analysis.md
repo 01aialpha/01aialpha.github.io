@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "은행 이탈 분석"
+
+# 은행 이탈 분석
+---
+
+
 ```python
 import pandas as pd 
 import numpy as np
